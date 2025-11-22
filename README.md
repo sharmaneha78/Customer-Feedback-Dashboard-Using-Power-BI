@@ -83,7 +83,7 @@ The goal of this project is to analyze customer satisfaction, understand behavio
 ---
 
 ## 📸 Dashboard Preview 
-`powerbidashboard.png`
+[customer feedback dashboard](powerbidashboard.png)
 
 ---
 
@@ -91,7 +91,7 @@ The goal of this project is to analyze customer satisfaction, understand behavio
 **Neha Sharma**  
 MCA – Data Science | Power BI | Data Analyst  
 📧 *sharmaneha3720@gmail.com*  
-🔗 *https://www.linkedin.com/in/neha-s-02a7ba285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+🔗 [Linkedin Profile](https://www.linkedin.com/in/neha-s-02a7ba285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
