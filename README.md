@@ -83,7 +83,7 @@ The goal of this project is to analyze customer satisfaction, understand behavio
 ---
 
 ## 📸 Dashboard Preview 
-`![Customer Feedback Dashboard](powerbidashboard.png)`
+`powerbidashboard.png`
 
 ---
 
